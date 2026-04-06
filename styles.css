@@ -402,15 +402,6 @@ ul, ol { list-style: none; }
   border-color: var(--white);
 }
 
-/* ========== REVIEWS ========== */
-.elfsight-placeholder {
-  text-align: center;
-  padding: 60px 20px;
-  background: rgba(255,255,255,0.05);
-  border-radius: var(--radius-lg);
-  color: var(--text-muted);
-}
-
 /* ========== CONTACT ========== */
 .contact-inner {
   display: grid;
