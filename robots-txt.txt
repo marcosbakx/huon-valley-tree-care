@@ -1,0 +1,6 @@
+# Huon Valley Tree Care — robots.txt
+
+User-agent: *
+Allow: /
+
+Sitemap: https://huonvalleytreecare.com.au/sitemap.xml
